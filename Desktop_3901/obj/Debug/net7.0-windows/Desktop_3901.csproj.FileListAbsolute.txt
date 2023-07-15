@@ -1,0 +1,309 @@
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.AssemblyReference.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.lref
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.exe
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.deps.json
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.runtimeconfig.json
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.baml
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.g.resources
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfoInputs.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfo.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CoreCompileInputs.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CopyComplete
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\refint\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.genruntimeconfig.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\ref\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.baml
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.baml
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.exe
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.deps.json
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.runtimeconfig.json
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.AssemblyReference.cache
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.g.cs
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.g.cs
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.cache
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.lref
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.baml
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.baml
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.baml
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.g.resources
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfoInputs.cache
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfo.cs
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CoreCompileInputs.cache
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CopyComplete
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\refint\Desktop_3901.dll
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.genruntimeconfig.cache
+D:\C#_Project\Desktop_Copy\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\ref\Desktop_3901.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.exe
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.deps.json
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.runtimeconfig.json
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.pdb
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.AssemblyReference.cache
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.g.cs
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.cache
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.lref
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.baml
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.baml
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.g.resources
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfoInputs.cache
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfo.cs
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CoreCompileInputs.cache
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CopyComplete
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\refint\Desktop_3901.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.pdb
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.genruntimeconfig.cache
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\ref\Desktop_3901.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.exe
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.deps.json
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.runtimeconfig.json
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.AssemblyReference.cache
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.g.cs
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.g.cs
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.cache
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.lref
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.baml
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.baml
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.baml
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.g.resources
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfoInputs.cache
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfo.cs
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CoreCompileInputs.cache
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CopyComplete
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\refint\Desktop_3901.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.genruntimeconfig.cache
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\ref\Desktop_3901.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Prism.dll
+D:\C#_Project\Individual_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Prism.Wpf.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Prism.dll
+C:\Users\selani didulani\OneDrive\Desktop\New folder\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Prism.Wpf.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.exe
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.deps.json
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.runtimeconfig.json
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Prism.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\bin\Debug\net7.0-windows\Prism.Wpf.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.AssemblyReference.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901_MarkupCompile.lref
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\App.baml
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Add_Student.baml
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\MainWindow.baml
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.g.resources
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfoInputs.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.AssemblyInfo.cs
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CoreCompileInputs.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.csproj.CopyComplete
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\refint\Desktop_3901.dll
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.pdb
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\Desktop_3901.genruntimeconfig.cache
+D:\C#_Project\Desktop_3901\Desktop_3901\Desktop_3901\obj\Debug\net7.0-windows\ref\Desktop_3901.dll

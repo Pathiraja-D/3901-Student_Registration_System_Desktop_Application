@@ -29,21 +29,21 @@ namespace Desktop_3901
 
             students = new ObservableCollection<Student>();
             BitmapImage image1 = new BitmapImage(new Uri("/Images/1.png", UriKind.Relative));
-            students.Add(new Student(100, "Dinuk", "Pathiraja", "11/05/1999", 3, image1));
+            students.Add(new Student(100, "Dinuk", "Pathiraja", "11/05/1999", 3.5, image1));
             BitmapImage image2 = new BitmapImage(new Uri("/Images/4.png", UriKind.Relative));
-            students.Add(new Student(101, "Selani", "Didulani", "11/05/1999", 3, image2));
+            students.Add(new Student(101, "Amanda", "Silva", "18/05/1999", 3.9, image2));
             BitmapImage image3 = new BitmapImage(new Uri("/Images/2.png", UriKind.Relative));
-            students.Add(new Student(102, "Sumudu", "Chethana", "11/05/1999", 3, image3));
+            students.Add(new Student(102, "Vector", "Dias", "11/09/1949", 4, image3));
             BitmapImage image4 = new BitmapImage(new Uri("/Images/3.png", UriKind.Relative));
-            students.Add(new Student(103, "Dinuk", "Pathiraja", "11/05/1999", 3, image4));
+            students.Add(new Student(103, "Jim", "Brown", "11/07/2009", 2.5, image4));
             BitmapImage image5 = new BitmapImage(new Uri("/Images/7.png", UriKind.Relative));
-            students.Add(new Student(104, "Selani", "Didulani", "04/12/2000", 3, image5));
+            students.Add(new Student(104, "Stephani", "Adams", "04/08/2000", 1.866, image5));
             BitmapImage image6 = new BitmapImage(new Uri("/Images/4.png", UriKind.Relative));
-            students.Add(new Student(100, "Dinuk", "Pathiraja", "11/05/1999", 3, image6));
+            students.Add(new Student(100, "Georgia", "Adams", "11/09/2005", 3.68, image6));
             BitmapImage image7 = new BitmapImage(new Uri("/Images/5.png", UriKind.Relative));
-            students.Add(new Student(100, "Dinuk", "Pathiraja", "11/05/1999", 3, image7));
+            students.Add(new Student(100, "John", "Doili", "28/04/1995", 3.94, image7));
             BitmapImage image8 = new BitmapImage(new Uri("/Images/10.png", UriKind.Relative));
-            students.Add(new Student(100, "Dinuk", "Pathiraja", "11/05/1999", 3, image8));
+            students.Add(new Student(100, "Adam", "Sethroling", "05/06/1998", 0.45, image8));
         }
 
         [RelayCommand]
